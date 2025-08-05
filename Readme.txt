@@ -20,7 +20,7 @@ c) Carga
 El DataFrame procesado se guarda en formato JSON:
 3. Análisis Exploratorio
 a) Proporción de clientes que abandonaron
-Se generó un gráfico tipo de barra mostrando que una proporción significativa de clientes se dio de baja.
+Se generó un gráfico de barra mostrando que una proporción significativa de clientes se dio de baja.
 b) Análisis por segmentos
 Recuento por género, tipo de contrato y metodo de pago.
 c) Análisis por variables numéricas
@@ -32,3 +32,4 @@ Python >=3.x
 Bibliotecas: pandas, seaborn, matplotlib, json
 Uso
 Ejecutar el script principal para realizar el ETL y análisis exploratorio.
+
